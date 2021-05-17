@@ -1,0 +1,14 @@
+Online Shopping Application (BrainsKart)
+----------------------------------------
+Full Stack Application (MERN Stack) + TypeScript
+
+Backend Setup
+------------
+npm init --yes -> package.json
+tsc --init -> tsconfig.json
+
+npm install bcryptjs cors dotenv express express-validator gravatar jsonwebtoken mongoose stripe @types/bcryptjs @types/cors @types/dotenv @types/express @types/express-validator @types/gravatar @types/jsonwebtoken @types/mongoose @types/stripe
+
+npm install -D concurrently
+
+tomorrow : 5PM - 8PM (Complete server setup)
